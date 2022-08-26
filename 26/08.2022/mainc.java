@@ -1,6 +1,6 @@
 package javainvoice;
 
-public class mainc {
+public class Invoicetest {
 	public static void main(String[]args)
 	{invoice i1=new invoice("a20123","t&t company",189,246);
 	System.out.println("Invoice amount of the first item "+i1.getInam());
