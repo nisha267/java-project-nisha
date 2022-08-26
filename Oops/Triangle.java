@@ -5,7 +5,7 @@ import java.util.*;
 	 return perimeter;
 	 }
 int ar(int l,int h)
-{int area=l*h;
+{int area=0.05*l*h;
 return area;
 }
 }
