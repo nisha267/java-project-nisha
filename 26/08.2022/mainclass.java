@@ -1,3 +1,4 @@
+/*Employee main class*/
 package javaemp1;
 
 public class mainclass {public static void main(String[]args)
