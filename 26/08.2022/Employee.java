@@ -1,4 +1,7 @@
-
+/*Create a class called Employee having the following attributes:
+pan no
+name
+Annual taxable income*/
 
 
 
