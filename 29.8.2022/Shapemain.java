@@ -14,10 +14,11 @@ public class Shapemain {
 }
 
 }
-
+//parent class//
  class Shape { int s;
 
 }
+//child class//
 class Square extends Shape{
 int area;
 void Area() 
