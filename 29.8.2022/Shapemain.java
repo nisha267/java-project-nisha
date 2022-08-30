@@ -14,3 +14,7 @@ public class Shapemain {
 }
 
 }
+
+ class Shape { int s;
+
+}
