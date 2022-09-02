@@ -1,3 +1,4 @@
+/*WAP to input an array having 5 strings and display them.*/
 package en.java;
 
 import java.util.Scanner;
