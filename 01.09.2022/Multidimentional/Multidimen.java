@@ -1,3 +1,5 @@
+/*WAP to input an array having 3 rows and 3 columns of type String.*/
+
 package en.java;
 
 import java.util.Scanner;
