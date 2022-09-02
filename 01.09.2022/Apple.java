@@ -1,3 +1,5 @@
+/*5. Write a program to accept value of apple sales for each day of the week (using array of
+type float) and then, calculate the average sale of the week.*/
 package apple.java;
 
 import java.util.Scanner;
