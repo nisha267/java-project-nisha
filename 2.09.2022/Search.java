@@ -1,3 +1,5 @@
+/*1. Write a java program to input 5 elements of an array and search for a number whether it is present in an array or not. If present print its position in the array.*/
+
 package javaarray;
 
 import java.util.Scanner;
