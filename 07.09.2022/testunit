@@ -1,1 +1,22 @@
+package com.java.unit.junit_testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class Unitexample {
+
+	@Test
+	void test() {
+	{
+		Largearr l =new Largearr();
+		int actual[]= {23,45,67,83,36};
+		int expected=83;
+		assertEquals(expected,actual);
+	}
+}
+	
+	}
+
+
 
