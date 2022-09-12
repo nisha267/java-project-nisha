@@ -18,9 +18,6 @@ public class Exception {
 			}
 		}catch(Stringpassword e) {
 			System.out.println(e);
-		}catch(IOException es) {}
-			
-			
 		}
 	}
 
