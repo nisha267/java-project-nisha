@@ -1,3 +1,5 @@
+// WAP to input a string and reverse it without using any inbuilt method.
+
 package string;
 
 public class Reversestring {
