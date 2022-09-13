@@ -1,3 +1,4 @@
+//4. write a java program to remove the characters at even indexes and then print the new string without using any method for removing
 package string;
 
 import java.util.Scanner;
