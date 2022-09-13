@@ -1,3 +1,4 @@
+//5. Write a program to delete all consonents from the string "Hello, have a good day".
 package string;
 
 public class Consonant {public static void main(String[]args)
